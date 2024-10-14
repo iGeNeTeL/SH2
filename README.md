@@ -12,13 +12,23 @@ Simple Tool / Trainer designed to provide various cheats for Silent Hill 2 Remak
 
 - **Hotkeys:** Hotkeys system for everything, allowing you to enable/disable any feature in the tool using your keyboard. Plus, the keybindings are fully customizable.
 
+- **Unlimited Ammo:** Never run out of ammunition for any weapon.
 
+- **Unlimited Health:** Keep your health maxed out at all times.
 
-- **FOV:** Modify your "Field of View" (FOV) to personalize and enhance your in-game perspective.
+- **Unlimited Health Drinks & Syringes:** Gain endless supplies of health drinks and syringes.
+
+- **Field of View (FOV):** Customize and enhance your in-game perspective by adjusting the FOV.
+
+- **Player Speed:** Modify the player's movement speed to suit your playstyle.
+
+- **Camera Height:** Adjust the camera's elevation relative to the player.
+
+- **Freeze Camera:** Lock the camera in place.
+
+- **First-Person Mode:** Switch from third-person to an first-person perspective.
   
 - **Crosshair:** Display a crosshair in the center of your screen to assist with aiming. You can also customize its color and size to your preference.
-
-
 
 - **Text Color (Console):**  Customize the text color for enhanced visibility and a more personalized experience.
 
