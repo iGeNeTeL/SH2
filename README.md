@@ -32,7 +32,7 @@ Simple Tool / Trainer designed to provide various cheats for Silent Hill 2 Remak
   
 - **No Recoil**
   
-- **Game Speed - Only Player**
+- **Game Speed - Player Only**
   
 - **Crosshair:** Display a crosshair in the center of your screen to assist with aiming. You can also customize its color and size to your preference.
 
