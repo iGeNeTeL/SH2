@@ -27,6 +27,12 @@ Simple Tool / Trainer designed to provide various cheats for Silent Hill 2 Remak
 - **Freeze Camera:** Lock the camera in place.
 
 - **First-Person Mode:** Switch from third-person to an first-person perspective.
+
+- **Aim FOV**
+  
+- **No Recoil**
+  
+- **Game Speed - Only Player**
   
 - **Crosshair:** Display a crosshair in the center of your screen to assist with aiming. You can also customize its color and size to your preference.
 
