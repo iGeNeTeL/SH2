@@ -1,7 +1,7 @@
 # Silent Hill 2 Remake Tool <br/>(By GeNeTeL جنتل) 
 
 Simple Tool / Trainer designed to provide various cheats for Silent Hill 2 Remake Game.
-<br> [Showcase Videos](https://www.youtube.com/watch?v=kCzhOqliK54)
+<br> [Showcase Video](https://www.youtube.com/watch?v=kCzhOqliK54)
 
 ## Features
 - **Completely Free:** :)
